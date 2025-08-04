@@ -3,6 +3,7 @@ An AI-powered credit risk assessment system for Micro, Small, and Medium Enterpr
 
 🎯 Project Overview
 This project uses a hybrid machine learning approach to assess credit risk for MSMEs by analyzing:
+
 📊 Data Sources
 Financial Data: Annual Revenue, Loan Amount, Historical Defaults
 Operational Data: Employee Count, Business Sector, Geographic Location
